@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react-hot-toast": "^2.4.1"
+  },
+  "name": "gb-roller",
+  "description": "a series of dice rolling tools",
+  "version": "1.0.3",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sass.master.flex",
+  "license": "ISC"
+}
